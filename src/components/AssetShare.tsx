@@ -2,14 +2,14 @@ export function AssetShare() {
   return (
     <div className="space-y-6">
       <div className="flex items-center justify-between">
-        <h1 className="text-3xl text-white">Fad Assets Share (Mutement)</h1>
+        <h1 className="text-3xl text-white"> Assets Share (Imigabane)</h1>
         <button className="bg-[#d4a84a] hover:bg-[#c4983a] text-black px-4 py-2 rounded-lg">
           Generate Statement
         </button>
       </div>
 
       <div className="bg-[#e8ebe5] rounded-2xl p-6">
-        <h2 className="text-xl mb-6">Inconteshablefize (Insistentisterse)</h2>
+        <h2 className="text-xl mb-6"> Account</h2>
 
         {/* Asset Categories */}
         <div className="space-y-4">
